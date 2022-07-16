@@ -44,3 +44,16 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+Useful links:
+Adding images : https://create-react-app.dev/docs/adding-images-fonts-and-files/
+axios : https://www.geeksforgeeks.org/axios-in-react-a-guide-for-beginners/
+Event handlers with TS : https://www.carlrippon.com/React-event-handlers-with-typescript/
+Select on change handler :https://stackoverflow.com/questions/58675993/typescript-react-select-onchange-handler-type-error
+Usestate with TS :https://stackoverflow.com/questions/53650468/set-types-on-usestate-react-hook-with-typescript
+Child rendering : https://stackoverflow.com/questions/38892672/react-why-child-component-doesnt-update-when-prop-changes
+Material ui :https://v4.mui.com/getting-started/usage/
+Lazy loading : https://reactjs.org/docs/code-splitting.html
+Error Boundries : https://reactjs.org/docs/error-boundaries.html
+
